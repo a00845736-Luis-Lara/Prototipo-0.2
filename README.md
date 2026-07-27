@@ -1,5 +1,6 @@
 # Tablero Ejecutivo CD — Consumo Masivo
-
+sheets https://docs.google.com/spreadsheets/d/19c9CcFXaSLsj-E0y2qw0LQNUxh9X-xTR/edit?gid=1360834295#gid=1360834295
+https://dashboardpy-hm4axwuddscomayxalotua.streamlit.app/ link
 Dashboard interactivo en Python (Streamlit + Plotly) que lee directamente
 `Tablero_Ejecutivo_CD.xlsx` y lo muestra como un tablero de control, siguiendo
 el diseño de referencia (KPIs arriba, paneles por área, alertas, resumen ejecutivo).
