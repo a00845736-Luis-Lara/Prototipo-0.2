@@ -184,6 +184,7 @@ def load_workbook(_unused_cache_key):
     productividad = kpi_table("Productividad")
     inventarios = kpi_table("Inventarios")
     costos = kpi_table("Costos")
+    presupuesto = kpi_table("Costos")
 
     def daily_stats(name, n_stats):
         ws = wb[name]
